@@ -77,6 +77,10 @@ Shoppers enjoy a curated experience, effortlessly discovering discounted service
 
   - Homepage
 
+![Hero](https://github.com/ElmarOdz/DiscountConnect/assets/110916781/1543163e-33f6-484e-af54-a4534b8f798c)
+
+  - Browse Products and Services
+
 ![Home page](https://github.com/ElmarOdz/DiscountConnect/assets/110916781/e78473a2-5617-4698-a834-9fb741a7bee0)
 
   - Get Coupon
@@ -98,10 +102,6 @@ Shoppers enjoy a curated experience, effortlessly discovering discounted service
   - User Profile 
 
 ![Profile Page](https://github.com/ElmarOdz/DiscountConnect/assets/110916781/dd8cc87c-dca1-48f4-bd63-e3d061e7f42a)
-
-##
-  # Code Snippets
-
 
 
 ##
