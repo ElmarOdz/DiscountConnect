@@ -37,17 +37,17 @@ Shoppers enjoy a curated experience, effortlessly discovering discounted service
 
   # Architecture
    - Frontend:
-      - HTML (HyperText Markup Language): Used for creating the basic structure of web pages.
-      - CSS (Cascading Style Sheets): Responsible for styling and layout of the web pages.
-      - JavaScript: Adds interactivity and dynamic behavior to the website. Like the coupon generator
-      - React (JavaScript Library): Handles the UI components and manages the state of the application.
+      - HTML for creating the basic structure.
+      - CSS for styling and layout.
+      - JavaScript to add interactivity and dynamic behavior to the website. Like the coupon generator
+      - React (JavaScript Library) to handle the UI components and manage the state of the application.
     
    - Database:
-      - Adalo Database: Utilized through Adalo forms to store and manage data related to merchants, coupons, users, etc.
+      - Adalo Database to store and manage data related to merchants, coupons, users, etc.
   
    - Third-party Services:
-      - Adalo Forms: Used for creating interactive forms to collect data from users (e.g., user registration, feedback).
-      - Adalo Database: Stores and manages data collected from forms, acting as a backend database.
+      - Adalo Forms for creating interactive forms to collect data from users (e.g., user registration, feedback).
+      - Adalo Database to store and manage data collected from forms, acting as a backend database.
 
   These technologies were chosen because it will be quick and easy to develop the app seamlessly and smoothly. It is also;
   - Cost effective
