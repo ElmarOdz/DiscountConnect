@@ -12,7 +12,6 @@ Shoppers enjoy a curated experience, effortlessly discovering discounted service
   - Architecture
   - Usage
   - Screenshots
-  - Code Snippets
   - Contributors
   - License
 
